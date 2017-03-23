@@ -11,7 +11,7 @@ stored procedures:
 -- show_portfolio_value_by_account.sql - Show Portfolio value
 -- show_historical_prices.sql - Show values of a stock historically
 
-Scripts to call stored procedures (prompt for admin login, password and input parameters):
+Scripts to call stored procedures (prompt for admin login (admin), password (admin_pass) and input parameters):
 -- get_positions_by_account.sh   
 -- show_portfolio_value_by_account.sh
 -- show_position_history_by_symbol.sh
